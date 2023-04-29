@@ -11,3 +11,5 @@ Tutorial how to use SFZ soundfonts in other softwares or players:
 You want to make sure you just extract to folder in whatever directory, then select the soundfont WHILE IT'S IN THE FOLDER, DO NOT TAKE THE SOUNDFONT OUT OF THE FOLDER AND TRY IT AS IT WILL NOT WORK (notifying you because I used to do this and I was mad)
 
 That's all really, credits to KaleidonKep99 for original Keppy's Steinway Piano, if you want the link to that repository it is right here: https://github.com/rastating/Keppy-Steinway-Piano
+
+You can download THIS soundfont via MediaFire: https://www.mediafire.com/file/1rczfr49e3jfbu6/OKBranflakes_and_Keppy%2527s_Steinway_Piano.zip/file
