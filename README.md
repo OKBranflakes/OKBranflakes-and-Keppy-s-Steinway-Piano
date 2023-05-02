@@ -14,3 +14,6 @@ That's all really, credits to KaleidonKep99 for original Keppy's Steinway Piano,
 
 You can download THIS soundfont via the "Releases" section.
 Samples edited in FL Studio (https://www.image-line.com/fl-studio/)
+
+Also I might have forgot to say, and if you use this soundfont without crediting me before I even told you, you ARE FINE, you DON'T HAVE TO CREDIT ME. But if you are hearing, please credit me by stating in your desc:
+OKBranflakes and Keppy's Steinway Piano is a modded version of KSP Bright, made by OKBranflakes. It adds wetness and reverb to the soundfont. Here is where you can download it: https://github.com/OKBranflakes/OKBranflakes-and-Keppy-s-Steinway-Piano
